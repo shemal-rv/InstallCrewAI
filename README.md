@@ -6,6 +6,11 @@ Follow these steps to set up CrewAI on your system.
 
 - Ensure you have Python version **>=3.10** and **<=3.13** installed on your system.
 - If Python is not installed or is not within the required version range, download the appropriate version from [Python's official website](https://www.python.org/downloads/).
+- You can check the version of python and pip by running following commands.
+```bash
+python3 --version
+pip --version
+```
 
 ## Installation Steps
 
